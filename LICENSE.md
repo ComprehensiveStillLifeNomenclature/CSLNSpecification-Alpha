@@ -3,6 +3,7 @@ The CSLNS specification is dual licensed.
 You can use it under either the CC-BY-SA 4.0 or GNU Free Documentation License 1.2 licenses.
 
 ## CC-BY-SA 4.0
+```
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
@@ -431,7 +432,9 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+```
 ## GNU Free Documentation License 1.2
+```
                 GNU Free Documentation License
                   Version 1.2, November 2002
 
@@ -830,7 +833,9 @@ recommend releasing these examples in parallel under your choice of
 free software license, such as the GNU General Public License,
 to permit their use in free software.
 
+```
 # SOFTWARE LICENSE
+```
 Mozilla Public License Version 2.0
 ==================================
 
@@ -1199,8 +1204,4 @@ for such a notice.
 
 You may add additional accurate notices of copyright ownership.
 
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
-  This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+```
